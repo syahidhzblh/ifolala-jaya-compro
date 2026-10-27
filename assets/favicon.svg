@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0d0f12"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#262a33" stroke-width="2"/>
+  <!-- Industrial Monogram IJ -->
+  <path d="M16 16 H30 M23 16 V48 M16 48 H30" stroke="#f59e0b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M38 16 H48 V42 C48 46 45 48 40 48 C36 48 34 46 34 44" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

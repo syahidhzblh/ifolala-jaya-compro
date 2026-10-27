@@ -1,0 +1,17 @@
+{
+  "name": "Ifolala Jaya — Konstruksi & Bengkel Las",
+  "short_name": "Ifolala Jaya",
+  "description": "Bengkel las dan konstruksi sejak 2001 di Tangerang dan Jabodetabek.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f12",
+  "theme_color": "#0d0f12",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

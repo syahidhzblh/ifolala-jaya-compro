@@ -5,7 +5,7 @@
    Strict No-Slop Standard
    =================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Work+Sans:wght@400;500;600;700&display=swap');
+/* Fonts are preloaded in HTML via <link rel="preconnect"> and <link rel="stylesheet"> */
 
 /* --- 5 Clear Scale Steps (Rules: Display, Heading, Lead, Body, Small) --- */
 :root {
